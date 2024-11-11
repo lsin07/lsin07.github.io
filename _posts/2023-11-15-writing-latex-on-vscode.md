@@ -4,9 +4,6 @@ date: 2023-11-15 00 :00:00 +0900
 categories: [LaTeX]
 tags: [latex, vscode]     # TAG names should always be lowercase
 ---
-> **블로그 이사 중**  
-> 현재 [이전 블로그](https://velog.io/@lsin07/)에서 포스트를 옮기는 중입니다!
-{: .prompt-info }
 
 ![Title Image](/assets/img/2023-11-15-writing-latex-on-vscode/title.png)
 Visual Studio Code에 LaTeX 문서를 편집하기 위한 환경을 구축해 봅시다.
@@ -25,6 +22,11 @@ TeX 문서를 빌드하기 위해서는 TeXLive라는 프로그램이 필요합�
 {: .prompt-warning}
 
 자세한 내용은 KTUG의 TeX 설치 문서(<http://wiki.ktug.org/wiki/wiki.php/%EC%84%A4%EC%B9%98>)를 참조하세요.
+
+아래 링크를 눌러 각 OS별 설치 방법을 확인하세요.
+- [**Windows**](#windows)
+- [**WSL (Windows Subsystem for Linux)**](#windows-wsl)
+- [**Linux**](#linux)
 
 ### Windows
 TeXLive Windows Installer를 이용해 설치하는 방법입니다.
@@ -76,6 +78,11 @@ sudo yum install texlive-*
 
 ## Visual Studio Code 설치
 Visual Studio Code (VSCode)는 다양한 확장 프로그램을 설치하여 IDE(통합 개발 환경)처럼 사용할 수 있는 확장성이 높은 텍스트 편집기입니다. 여기서는 LaTeX Workshop 확장 프로그램을 설치하여 LaTeX 편집기로 사용할 것입니다.
+
+아래 링크를 눌러 각 OS별 설치 방법을 확인하세요.
+- [**Windows**](#windows-1)
+- [**WSL (Windows Subsystem for Linux)**](#windows-wsl-1)
+- [**Linux**](#linux-1)
 
 ### Windows
 - [Visual Studio 공식 홈페이지](https://code.visualstudio.com/)에서 `Download for Windows` 버튼을 눌러 Windows용 설치 파일을 다운로드합니다.
