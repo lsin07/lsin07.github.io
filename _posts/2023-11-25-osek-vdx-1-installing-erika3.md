@@ -53,7 +53,7 @@ sudo apt install default-jre
 
 ## RT-Druid 실행 및 프로젝트 생성
 
-아래 명령어를 입력하여 RT-Druid를 실행합니다.
+아래 명령어를 입력하여 RT-Druid를 실행합니다. `/<path>/<to>/<rt-druid>/<extraction>/`{: .filepath} 부분은 압축을 풀었던 경로에 맞게 지정해 주어야 합니다.
 ```bash
 /<path>/<to>/<rt-druid>/<extraction>/eclipse/eclipse
 ```
