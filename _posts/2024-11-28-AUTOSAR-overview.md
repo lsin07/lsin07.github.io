@@ -44,7 +44,7 @@ AUTOSAR Adaptive Platform은 ARM의 Cortex-A 시리즈, 혹은 x86과 같은 아
 
 |     | Classic Platform | Adaptive Platform |
 | --- | :---------------: | :----------------: |
-| 대상 하드웨어 | 실시간 시스템 | 고성능 프로세서 |
+| 대상 하드웨어 | 실시간 제어기 (MCU) | 고성능 프로세서 (AP) |
 | 기반 OS | 없음 (Bare-metal) | POSIX 기반 OS |
 | 통신 방식 | Signal-based | Service-oriented |
 | 업데이트 방식 | HW에 수동으로 Deploy | OTA 업데이트 등 사용 가능 |
