@@ -5,7 +5,11 @@ categories: [Automotive SW, OSEK]
 tags: [automotive, embedded, rtos, osek, erika3]     # TAG names should always be lowercase
 ---
 
-이번 글의 내용은 [이곳](/posts/osek-vdx-1-installing-erika3/)에서 이어집니다.
+> **OSEK/VDX 실습**
+1. [ERIKA3 설치하기](/posts/osek-vdx-1-installing-erika3)
+1. 프로젝트 빌드, 이미지 제작, 실행 📌
+
+---
 
 ## 시작
 이번에는 저번 시간에 만든 예시 프로젝트를 빌드 및 실행해 보겠습니다. 지금 저희에겐 실제 MCU 보드나 가상 환경이 준비되어 있지 않기 때문에, bare-metal x86-64 시스템용 이미지를 만들어볼 것입니다.

@@ -5,6 +5,12 @@ categories: [Automotive SW, OSEK]
 tags: [automotive, embedded, rtos, osek, erika3]     # TAG names should always be lowercase
 ---
 
+> **OSEK/VDX 실습**
+1. ERIKA3 설치하기 📌
+1. [프로젝트 빌드, 이미지 제작, 실행](/posts/osek-vdx-2-build-create-image-run)
+
+---
+
 ## ERIKA
 
 ERIKA는 OSEK/VDX 표준을 만족하는, 임베디드 시스템을 위한 실시간 운영체제입니다.
