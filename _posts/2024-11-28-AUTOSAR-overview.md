@@ -7,6 +7,12 @@ tags: [automotive, embedded, autosar, autosar_cp]     # TAG names should always 
 ---
 ![logo](/assets/img/2024-11-26-AUTOSAR-overview/autosar-1200x900.png){: .w-75}
 
+> **AUTOSAR CP**
+1. AUTOSAR CP (1) - AUTOSAR 개요 📌
+1. [AUTOSAR CP (2) - AUTOSAR 계층 구조](/posts/AUTOSAR-layered-architecture)
+
+---
+
 **Table of Contents**
 
 1. [What is AUTOSAR?](#what-is-autosar)
@@ -113,3 +119,4 @@ AUTOSAR를 통한 소프트웨어 플랫폼 표준화를 이루어냄으로써, 
 (<https://www.autoelectronics.co.kr/article/articleView.asp?idx=2593>)
 - Why AUTOSAR ?— A simple guide  
 (<https://medium.com/@sjindhirapooja/why-autosar-a-simple-guide-part1-5064ec3def60/>)
+ 
