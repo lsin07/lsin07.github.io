@@ -6,7 +6,8 @@ categories: [SW Tools]
 tags: [gdb]     # TAG names should always be lowercase
 ---
 
-> PDF 버전도 준비되어 있습니다. [여기](/assets/files/2025-05-01-gdb-cheat-sheet/gdb_cheat_sheet.pdf)를 클릭해서 확인해 보세요.
+> PDF 버전도 준비되어 있습니다. [여기](/assets/files/2025-05-01-gdb-cheat-sheet/gdb_cheat_sheet.pdf){:target='_blank'}를
+클릭해서 확인해 보세요.
 {: .prompt-tip}
 
 | 분류       | 명령어                                           | 설명                                                    | 예시                                               |
